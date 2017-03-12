@@ -26,13 +26,11 @@
 ### Python学习笔记
 - 1)[常用Python标准库](http://mp.weixin.qq.com/s?__biz=MzIwODY1MDc1NQ==&mid=2247483674&idx=1&sn=308c1c24a764257cee1d680fae87744a&chksm=977e9676a0091f60c07cd95151320032ca3515140f7d165c793fb8d253c12b171ce17b6b086b#rd)
 
-- 2)[常用Python标准库](https://mp.weixin.qq.com/s?__biz=MzIwODY1MDc1NQ==&mid=2247483674&idx=1&sn=308c1c24a764257cee1d680fae87744a&chksm=977e9676a0091f60c07cd95151320032ca3515140f7d165c793fb8d253c12b171ce17b6b086b#rd)
+- 2)[Django学习之旅（一）](https://mp.weixin.qq.com/s?__biz=MzIwODY1MDc1NQ==&mid=2247483751&idx=1&sn=f6613ed9663ee62354a249b38d122625&chksm=977e960ba0091f1dbc959867fb3228457f7b46614f1cde22ee3a8dabb2560d4c4644d10a29ec#rd)
 
-- 3)[Django学习之旅（一）](https://mp.weixin.qq.com/s?__biz=MzIwODY1MDc1NQ==&mid=2247483751&idx=1&sn=f6613ed9663ee62354a249b38d122625&chksm=977e960ba0091f1dbc959867fb3228457f7b46614f1cde22ee3a8dabb2560d4c4644d10a29ec#rd)
+- 3)[Django学习之旅（二）](https://mp.weixin.qq.com/s?__biz=MzIwODY1MDc1NQ==&mid=2247483764&idx=1&sn=e02deb06fb149580eaaf69847881cd79&chksm=977e9618a0091f0e92612180c7b7d4ce7e62b2f7fa3ab9248c636832ecfac56ad965efda37eb#rd)
 
-- 4)[Django学习之旅（二）](https://mp.weixin.qq.com/s?__biz=MzIwODY1MDc1NQ==&mid=2247483764&idx=1&sn=e02deb06fb149580eaaf69847881cd79&chksm=977e9618a0091f0e92612180c7b7d4ce7e62b2f7fa3ab9248c636832ecfac56ad965efda37eb#rd)
-
-- 5)[Django学习之旅（三）](https://mp.weixin.qq.com/s?__biz=MzIwODY1MDc1NQ==&mid=2247483775&idx=1&sn=e701b9bbde0aadc9f28b1c00415b4918&chksm=977e9613a0091f05e5171d1d3d9b9a850573427466d825464ea79b5830dc7cfae4f01c140007#rd)
+- 4)[Django学习之旅（三）](https://mp.weixin.qq.com/s?__biz=MzIwODY1MDc1NQ==&mid=2247483775&idx=1&sn=e701b9bbde0aadc9f28b1c00415b4918&chksm=977e9613a0091f05e5171d1d3d9b9a850573427466d825464ea79b5830dc7cfae4f01c140007#rd)
 
 
 
