@@ -17,7 +17,7 @@
 
 - 7)[高效利用Bitmap](https://mp.weixin.qq.com/s?__biz=MzIwODY1MDc1NQ==&mid=2247483745&idx=1&sn=2293bd4d6528cb4fbcd8a8eb9eb4d9db&chksm=977e960da0091f1b0769e122dc9c25c706a8c6e7267ef069cdfb39a09152c1c719bbfa3a7913#rd)
 
-- 8)[值得入手的10个Android开源库](https://mp.weixin.qq.com/s?__biz=MzIwODY1MDc1NQ==&mid=2247483790&idx=1&sn=ed459820c24446db1016e6078e55d9d4&chksm=977e96e2a0091ff40f9e872df445786d02ac10d55efbc62fe98ee54dcc514dcfb858c9941427#rd)
+- 8)[RecyclerView还能这么玩](https://mp.weixin.qq.com/s/fHj_7l0WXriG6SAQZ3isqw)
 
 ### 原理详解
 - 1)[深入理解HTTP](http://mp.weixin.qq.com/s?__biz=MzIwODY1MDc1NQ==&mid=2247483655&idx=1&sn=411240926e4f5117dcb2e46cd678d103&chksm=977e966ba0091f7d37a12115274c39a092fac46d70b2101f51da8d63925659f4bf5a7677bf1e#rd)
