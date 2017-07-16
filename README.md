@@ -49,6 +49,12 @@
 
 - 8)[爬虫之道](https://mp.weixin.qq.com/s/qfJeb6nxPUMtf5eMc3yhYg)
 
+- 9)[详解 python3 urllib](https://mp.weixin.qq.com/s/x8IlUOaqd-2F0NQjf_UJXw)
+
+- 10)[Python 正则表达式](https://mp.weixin.qq.com/s/VMJ-jD71NcfmAmbtpskQ9Q)
+
+- 11)[内容提取神器 beautiful Soup 的用法](https://mp.weixin.qq.com/s/t6kzuQ7BBVLYFdDezW2Vow)
+
 ### 鸡汤
 - 1）[你为何要那么拼命](https://mp.weixin.qq.com/s/nKNoLJtCZ6hIBx3EfGqPuQ)
 
