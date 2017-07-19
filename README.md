@@ -55,6 +55,8 @@
 
 - 11)[内容提取神器 beautiful Soup 的用法](https://mp.weixin.qq.com/s/t6kzuQ7BBVLYFdDezW2Vow)
 
+- 12)[爬虫实战一：爬取当当网所有 Python 书籍](https://mp.weixin.qq.com/s/_IKBJEkh9HtNhpJEbwsD6Q)
+
 ### 鸡汤
 - 1）[你为何要那么拼命](https://mp.weixin.qq.com/s/nKNoLJtCZ6hIBx3EfGqPuQ)
 
