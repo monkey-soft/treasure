@@ -57,6 +57,8 @@
 
 - 12)[爬虫实战一：爬取当当网所有 Python 书籍](https://mp.weixin.qq.com/s/_IKBJEkh9HtNhpJEbwsD6Q)
 
+- 13)[Python 多进程与多线程](http://mp.weixin.qq.com/s/Dz4TfKVDZZYDOJNkjnkLIA)
+
 ### 鸡汤
 - 1）[你为何要那么拼命](https://mp.weixin.qq.com/s/nKNoLJtCZ6hIBx3EfGqPuQ)
 
