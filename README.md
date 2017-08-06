@@ -59,6 +59,8 @@
 
 - 13)[Python 多进程与多线程](http://mp.weixin.qq.com/s/Dz4TfKVDZZYDOJNkjnkLIA)
 
+- 14)[详解 Requests 的用法](http://mp.weixin.qq.com/s/mzUm6PmdTXF9uXdxQhKAIA)
+
 ### 鸡汤
 - 1）[你为何要那么拼命](https://mp.weixin.qq.com/s/nKNoLJtCZ6hIBx3EfGqPuQ)
 
