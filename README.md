@@ -61,6 +61,7 @@
 
 - 14)[详解 Requests 的用法](http://mp.weixin.qq.com/s/mzUm6PmdTXF9uXdxQhKAIA)
 
+- 15)[“干将莫邪” —— Xpath 与 lxml 库](https://mp.weixin.qq.com/s/yiIJVXHYkydhl6f5OWYnJg)
 
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
