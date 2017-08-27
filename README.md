@@ -63,6 +63,8 @@
 
 - 15)[“干将莫邪” —— Xpath 与 lxml 库](https://mp.weixin.qq.com/s/yiIJVXHYkydhl6f5OWYnJg)
 
+- 16)[爬虫实战二：爬取电影天堂的最新电影](http://mp.weixin.qq.com/s/oR7pF0zhB0AHkjFtxrWKxA)
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
