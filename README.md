@@ -65,6 +65,8 @@
 
 - 16)[爬虫实战二：爬取电影天堂的最新电影](http://mp.weixin.qq.com/s/oR7pF0zhB0AHkjFtxrWKxA)
 
+- 17)[用 Python 学习数据结构, 有它就不用愁](http://mp.weixin.qq.com/s/ur1xvGMmsGzJ6Q-1iNvWRw)
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
