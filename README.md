@@ -67,6 +67,8 @@
 
 - 17)[用 Python 学习数据结构, 有它就不用愁](http://mp.weixin.qq.com/s/ur1xvGMmsGzJ6Q-1iNvWRw)
 
+- 18)[学会运用爬虫框架 Scrapy (一)](https://mp.weixin.qq.com/s/87ztrAMh-TritxYlcs15uw)
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
