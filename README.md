@@ -69,6 +69,8 @@
 
 - 18)[学会运用爬虫框架 Scrapy (一)](https://mp.weixin.qq.com/s/87ztrAMh-TritxYlcs15uw)
 
+- 19)[学会运用爬虫框架 Scrapy (二)](http://mp.weixin.qq.com/s/PYy7STdFPpM7Zk6kZOA7ZQ)
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
