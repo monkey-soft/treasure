@@ -77,6 +77,8 @@
 
 - 22)[学会运用爬虫框架 Scrapy (五) —— 部署爬虫](http://mp.weixin.qq.com/s/5OlTG6zYF1BMaJ2zsdZ4BA)
 
+- 23)[爬虫与反爬虫的博弈](https://mp.weixin.qq.com/s/fjTxRnrgwf03XJRte9FTRw)
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
