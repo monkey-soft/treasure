@@ -79,6 +79,8 @@
 
 - 23)[爬虫与反爬虫的博弈](https://mp.weixin.qq.com/s/fjTxRnrgwf03XJRte9FTRw)
 
+- 24)[爬虫系列的总结](http://mp.weixin.qq.com/s/XiV1NRbThA6W6aWWj5alaA)
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
