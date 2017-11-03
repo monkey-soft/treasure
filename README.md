@@ -81,6 +81,9 @@
 
 - 24)[爬虫系列的总结](http://mp.weixin.qq.com/s/XiV1NRbThA6W6aWWj5alaA)
 
+- 25)[Python 绘图，我只用 Matplotlib（一）](http://mp.weixin.qq.com/s/n0TnezNI0XaTejIkpRpM7Q)
+
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
