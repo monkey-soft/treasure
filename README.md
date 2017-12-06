@@ -89,6 +89,8 @@
 
 - 28)[Python 绘图，我只用 Matplotlib（三）—— 柱状图](https://mp.weixin.qq.com/s/_aJMmaSehTsf0lVjNmy-xQ)
 
+- 29)[Python定时任务（上）](https://mp.weixin.qq.com/s/mYsCKL23MnGNa8VOIQ5OUg)
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
