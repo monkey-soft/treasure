@@ -91,6 +91,8 @@
 
 - 29)[Python定时任务（上）](https://mp.weixin.qq.com/s/mYsCKL23MnGNa8VOIQ5OUg)
 
+- 30)[Python定时任务（下）](https://mp.weixin.qq.com/s/RM8OdC2l_A0OGSK8RgAKAw)
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
