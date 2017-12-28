@@ -95,6 +95,8 @@
 
 - 31)[Scrapy 框架插件之 IP 免费代理池](http://mp.weixin.qq.com/s/L00mLtJLnaj1oufDpFseyQ)
 
+- 32)[回顾 2017，展望 2018](https://mp.weixin.qq.com/s/rWug45_tFyqtGat1R7tZiA)
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
