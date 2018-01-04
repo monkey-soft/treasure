@@ -97,6 +97,8 @@
 
 - 32)[回顾 2017，展望 2018](https://mp.weixin.qq.com/s/rWug45_tFyqtGat1R7tZiA)
 
+- 33)[Python 中连接字符串效率最高的方式是哪种呢？](http://mp.weixin.qq.com/s/Nk_vvU7Q-JqhGU8AJ4JQjg)
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
