@@ -99,6 +99,8 @@
 
 - 33)[Python 中连接字符串效率最高的方式是哪种呢？](http://mp.weixin.qq.com/s/Nk_vvU7Q-JqhGU8AJ4JQjg)
 
+- 34)[pustil - 获取系统信息库](http://mp.weixin.qq.com/s/BJv8Vel5WOOnJnswC_DQmA)
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
