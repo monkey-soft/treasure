@@ -101,6 +101,9 @@
 
 - 34)[pustil - 获取系统信息库](http://mp.weixin.qq.com/s/BJv8Vel5WOOnJnswC_DQmA)
 
+- 35)[Python 中各种时间类型的转换](https://mp.weixin.qq.com/s/xTUeoGUaMkFX8CLFU1ScHQ)
+
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
