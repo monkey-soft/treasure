@@ -103,6 +103,7 @@
 
 - 35)[Python 中各种时间类型的转换](https://mp.weixin.qq.com/s/xTUeoGUaMkFX8CLFU1ScHQ)
 
+- 36)[几个 Python 编程小技巧](http://mp.weixin.qq.com/s/gtPoDsUDNcyyiNUL_Xv7_Q)
 
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
