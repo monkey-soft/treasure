@@ -105,6 +105,8 @@
 
 - 36)[几个 Python 编程小技巧](http://mp.weixin.qq.com/s/gtPoDsUDNcyyiNUL_Xv7_Q)
 
+- 37)[随意更 | 计划分享 Python Web 学习心得](https://mp.weixin.qq.com/s/OxAqH03p-fl5Y4IgTBmMfA)
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
