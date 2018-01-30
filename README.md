@@ -107,6 +107,11 @@
 
 - 37)[随意更 | 计划分享 Python Web 学习心得](https://mp.weixin.qq.com/s/OxAqH03p-fl5Y4IgTBmMfA)
 
+
+### Django 框架学习笔记
+- 1）[Django 学习笔记之环境搭建](https://mp.weixin.qq.com/s/q87WOZNTI0To1PYseVa4-w)
+
+
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
 
