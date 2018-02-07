@@ -111,6 +111,8 @@
 ### Django 框架学习笔记
 - 1）[Django 学习笔记之环境搭建](https://mp.weixin.qq.com/s/q87WOZNTI0To1PYseVa4-w)
 
+- 2)[Django 学习笔记之初识](http://mp.weixin.qq.com/s/rdpvl2fTPbuphfk1gCRaMA)
+
 
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
