@@ -17,6 +17,7 @@
 ### 原理详解
 - 1)[深入理解HTTP](https://mp.weixin.qq.com/s/uerkrr_AhB4qtw_0jBLwgg)
 
+- 2)[一道关于 TCP 连接的题目](http://mp.weixin.qq.com/s/YhC-wfppWurbVANCvP3WGQ)
 
 ### Python学习笔记
 - 1)[常用Python标准库](https://mp.weixin.qq.com/s/fMX3k3kt7UoU6IK7Q881xQ)
