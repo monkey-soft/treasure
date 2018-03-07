@@ -1,31 +1,17 @@
 ## treasure 
 分享自己微信公众号发布的文章
 
-### Android学习笔记
-- 1)[聊聊Activity那些事](http://mp.weixin.qq.com/s?__biz=MzIwODY1MDc1NQ==&mid=2247483653&idx=1&sn=13d71f333bce72e34c8a2c87d45d4180&chksm=977e9669a0091f7f150066fa277ffa2faf23d81d6bba38bc78e9a75a136922bd72f97e591cc3#rd) 
-从**各Activity所在的包**、**各Activity的底层实现**、**各Activity的作用**三个方面阐述`Activity`、`FragmentAtivity`、`AppCompatActivity`之间的关系以及差别
 
-- 2)[如何优雅地进行序列化操作](https://mp.weixin.qq.com/s/MB7qgNjJFdUvBQEadmOlwA)
+### Django 框架学习笔记
+- 1)[Django 学习笔记之环境搭建](https://mp.weixin.qq.com/s/q87WOZNTI0To1PYseVa4-w)
 
-- 3)[Android设计模式之MVP](https://mp.weixin.qq.com/s/Wv_sFg8reo1u1MIwbY1gSg)
+- 2)[Django 学习笔记之初识](http://mp.weixin.qq.com/s/rdpvl2fTPbuphfk1gCRaMA)
 
-- 4)[Android 6.0动态获取权限](https://mp.weixin.qq.com/s/343V7T-Drj1CAyAQVhbMZA)
+- 3)[Django 学习笔记之模板](http://mp.weixin.qq.com/s/dD4jn6dq5lpfHVO71Hqhmg)
 
-- 5)[Android中广播实践小结](https://mp.weixin.qq.com/s/6iqElr2ThdVKNt3TVYi9Cw)
+- 4)[Django 学习笔记之模板](http://mp.weixin.qq.com/s/dD4jn6dq5lpfHVO71Hqhmg)
 
-- 6)[你还在使用Dialog？赶紧把DialogFragment用起来](https://mp.weixin.qq.com/s/ZjsKHMYnSVFrSBXdKcWCqA)
-
-- 7)[高效利用Bitmap](https://mp.weixin.qq.com/s/Uee92AdEFgt8BGOO6z_B2g)
-
-- 8)[RecyclerView还能这么玩](https://mp.weixin.qq.com/s/fHj_7l0WXriG6SAQZ3isqw)
-
-- 9)[观察者模式解析以及应用](https://mp.weixin.qq.com/s/Ovoqv5tyVziu1vmjdHO2Lg)
-
-- 10)[详解安卓的ClassLoader](https://mp.weixin.qq.com/s/E_j4UIygUwT0xxzg_4lX2w)
-
-- 11)[会变色的TextView](https://mp.weixin.qq.com/s/GVX4vXS0oCvIy7JYqghObQ)
-
-- 12)[如何自定义"设置界面"](https://mp.weixin.qq.com/s/eIrjW06D8NRgxrzbo3q3RQ)
+- 5)[Django 学习笔记之模型（上）](http://mp.weixin.qq.com/s/Zdd7gT0T7RWee86P2S6IXA)
 
 
 ### 原理详解
@@ -108,22 +94,37 @@
 - 37)[随意更 | 计划分享 Python Web 学习心得](https://mp.weixin.qq.com/s/OxAqH03p-fl5Y4IgTBmMfA)
 
 
-### Django 框架学习笔记
-- 1)[Django 学习笔记之环境搭建](https://mp.weixin.qq.com/s/q87WOZNTI0To1PYseVa4-w)
-
-- 2)[Django 学习笔记之初识](http://mp.weixin.qq.com/s/rdpvl2fTPbuphfk1gCRaMA)
-
-- 3)[Django 学习笔记之模板](http://mp.weixin.qq.com/s/dD4jn6dq5lpfHVO71Hqhmg)
-
-- 4)[Django 学习笔记之模板](http://mp.weixin.qq.com/s/dD4jn6dq5lpfHVO71Hqhmg)
-
-- 5)[Django 学习笔记之模型（上）](http://mp.weixin.qq.com/s/Zdd7gT0T7RWee86P2S6IXA)
-
 
 ### 随笔
 - 1）[应该如何阅读？](http://mp.weixin.qq.com/s/QmfBt-AJqMkXseHEbub7AA)
+
 
 ### 鸡汤
 - 1）[你为何要那么拼命](https://mp.weixin.qq.com/s/nKNoLJtCZ6hIBx3EfGqPuQ)
 
 
+### Android学习笔记
+- 1)[聊聊Activity那些事](http://mp.weixin.qq.com/s?__biz=MzIwODY1MDc1NQ==&mid=2247483653&idx=1&sn=13d71f333bce72e34c8a2c87d45d4180&chksm=977e9669a0091f7f150066fa277ffa2faf23d81d6bba38bc78e9a75a136922bd72f97e591cc3#rd) 
+从**各Activity所在的包**、**各Activity的底层实现**、**各Activity的作用**三个方面阐述`Activity`、`FragmentAtivity`、`AppCompatActivity`之间的关系以及差别
+
+- 2)[如何优雅地进行序列化操作](https://mp.weixin.qq.com/s/MB7qgNjJFdUvBQEadmOlwA)
+
+- 3)[Android设计模式之MVP](https://mp.weixin.qq.com/s/Wv_sFg8reo1u1MIwbY1gSg)
+
+- 4)[Android 6.0动态获取权限](https://mp.weixin.qq.com/s/343V7T-Drj1CAyAQVhbMZA)
+
+- 5)[Android中广播实践小结](https://mp.weixin.qq.com/s/6iqElr2ThdVKNt3TVYi9Cw)
+
+- 6)[你还在使用Dialog？赶紧把DialogFragment用起来](https://mp.weixin.qq.com/s/ZjsKHMYnSVFrSBXdKcWCqA)
+
+- 7)[高效利用Bitmap](https://mp.weixin.qq.com/s/Uee92AdEFgt8BGOO6z_B2g)
+
+- 8)[RecyclerView还能这么玩](https://mp.weixin.qq.com/s/fHj_7l0WXriG6SAQZ3isqw)
+
+- 9)[观察者模式解析以及应用](https://mp.weixin.qq.com/s/Ovoqv5tyVziu1vmjdHO2Lg)
+
+- 10)[详解安卓的ClassLoader](https://mp.weixin.qq.com/s/E_j4UIygUwT0xxzg_4lX2w)
+
+- 11)[会变色的TextView](https://mp.weixin.qq.com/s/GVX4vXS0oCvIy7JYqghObQ)
+
+- 12)[如何自定义"设置界面"](https://mp.weixin.qq.com/s/eIrjW06D8NRgxrzbo3q3RQ)
