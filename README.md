@@ -7,13 +7,15 @@
 
 - 2)[Django 学习笔记之初识](http://mp.weixin.qq.com/s/rdpvl2fTPbuphfk1gCRaMA)
 
-- 3)[Django 学习笔记之视图与URL配置](http://mp.weixin.qq.com/s/dD4jn6dq5lpfHVO71Hqhmg)
+- 3)[Django 学习笔记之视图与URL配置](http://mp.weixin.qq.com/s/enhOhkgz49HCpNJUxi2C8Q)
 
-- 4)[Django 学习笔记之模板](http://mp.weixin.qq.com/s/enhOhkgz49HCpNJUxi2C8Q)
+- 4)[Django 学习笔记之模板](http://mp.weixin.qq.com/s/dD4jn6dq5lpfHVO71Hqhmg)
 
 - 5)[Django 学习笔记之模型（上）](http://mp.weixin.qq.com/s/Zdd7gT0T7RWee86P2S6IXA)
 
 - 6)[Django 学习笔记之模型（下）](http://mp.weixin.qq.com/s/YdpD_yJMGkyNWzcNm7YQLA)
+
+- 7[Django 学习笔记之后台管理](http://mp.weixin.qq.com/s/nq-sg2WCaZxz3pH3iHzQIQ)
 
 
 ### 原理详解
@@ -96,6 +98,7 @@
 
 - 37)[随意更 | 计划分享 Python Web 学习心得](https://mp.weixin.qq.com/s/OxAqH03p-fl5Y4IgTBmMfA)
 
+- 38)[chinese-poetry：最懂唐诗宋词的数据库](http://mp.weixin.qq.com/s/erYQSUVfSp5P_eMFqUU4uQ)
 
 
 ### 随笔
