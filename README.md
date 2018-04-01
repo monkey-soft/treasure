@@ -15,8 +15,11 @@
 
 - 6)[Django 学习笔记之模型（下）](http://mp.weixin.qq.com/s/YdpD_yJMGkyNWzcNm7YQLA)
 
-- 7[Django 学习笔记之后台管理](http://mp.weixin.qq.com/s/nq-sg2WCaZxz3pH3iHzQIQ)
+- 7)[Django 学习笔记之后台管理](http://mp.weixin.qq.com/s/nq-sg2WCaZxz3pH3iHzQIQ)
 
+- 8)[Django 学习笔记之表单](http://mp.weixin.qq.com/s/JgraaUPnzddOJ0QHzqAUwA)
+
+- 9)[Django 学习笔记之使用旧数据库](http://mp.weixin.qq.com/s/CdHRfVycl50XW6v6OTOsGg)
 
 ### 原理详解
 - 1)[深入理解HTTP](https://mp.weixin.qq.com/s/uerkrr_AhB4qtw_0jBLwgg)
