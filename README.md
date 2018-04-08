@@ -21,6 +21,8 @@
 
 - 9)[Django 学习笔记之使用旧数据库](http://mp.weixin.qq.com/s/CdHRfVycl50XW6v6OTOsGg)
 
+- 10)[Django 实战1：搭建属于自己社工查询系统（上）](http://mp.weixin.qq.com/s/POGDebRH0_O_2tWwBgsU5A)
+
 ### 原理详解
 - 1)[深入理解HTTP](https://mp.weixin.qq.com/s/uerkrr_AhB4qtw_0jBLwgg)
 
