@@ -1,6 +1,8 @@
 ## treasure 
 分享自己微信公众号发布的文章
 
+### 心得
+- 1)[该如何学习 Python？](http://mp.weixin.qq.com/s/4PCrrGbQKkh9pEs4GUTV1A) 
 
 ### Django 框架学习笔记
 - 1)[Django 学习笔记之环境搭建](https://mp.weixin.qq.com/s/q87WOZNTI0To1PYseVa4-w)
@@ -22,6 +24,8 @@
 - 9)[Django 学习笔记之使用旧数据库](http://mp.weixin.qq.com/s/CdHRfVycl50XW6v6OTOsGg)
 
 - 10)[Django 实战1：搭建属于自己社工查询系统（上）](http://mp.weixin.qq.com/s/POGDebRH0_O_2tWwBgsU5A)
+
+- 11)[Django 实战1：搭建属于自己社工查询系统（下）](http://mp.weixin.qq.com/s/SdkTUW3KW_rKdcxYBpzpdQ)
 
 ### 原理详解
 - 1)[深入理解HTTP](https://mp.weixin.qq.com/s/uerkrr_AhB4qtw_0jBLwgg)
