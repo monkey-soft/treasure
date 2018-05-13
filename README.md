@@ -4,6 +4,10 @@
 ### 心得
 - 1)[该如何学习 Python？](http://mp.weixin.qq.com/s/4PCrrGbQKkh9pEs4GUTV1A) 
 
+- 2)[想做 Python Web 开发，需要掌握哪些技能？](https://mp.weixin.qq.com/s/mYSTUCaShP56xIoa2jFAiA)
+
+- 3)[真正学会“阅读”](https://mp.weixin.qq.com/s/g6CCiZ-OjVWsqE4rQJOttQ)
+
 ### Django 框架学习笔记
 - 1)[Django 学习笔记之环境搭建](https://mp.weixin.qq.com/s/q87WOZNTI0To1PYseVa4-w)
 
@@ -26,6 +30,16 @@
 - 10)[Django 实战1：搭建属于自己社工查询系统（上）](http://mp.weixin.qq.com/s/POGDebRH0_O_2tWwBgsU5A)
 
 - 11)[Django 实战1：搭建属于自己社工查询系统（下）](http://mp.weixin.qq.com/s/SdkTUW3KW_rKdcxYBpzpdQ)
+
+- 12)[Django 学习笔记之模型高级用法（上）](https://mp.weixin.qq.com/s/PWWzKEjhCqTS8Iey89Myfg)
+
+- 13)[Django 学习笔记之模型高级用法(下)](https://mp.weixin.qq.com/s/EWmMPLplYeM8jpEogYKZ9w)
+
+- 14)[Django 实现分页功能](https://mp.weixin.qq.com/s/Nrp7ElZUwb3m2eFqcq3i9Q)
+
+- 15)[Django 使用会话( sessions )功能](https://mp.weixin.qq.com/s/-HOGpicIlmp3TIYzvcrl7Q)
+
+- 16)[Django 实战2：利用 Session 实现自动登录机制](https://mp.weixin.qq.com/s/p57ei2cZ_f8EOQIlVblD2g)
 
 ### 原理详解
 - 1)[深入理解HTTP](https://mp.weixin.qq.com/s/uerkrr_AhB4qtw_0jBLwgg)
@@ -108,6 +122,8 @@
 - 37)[随意更 | 计划分享 Python Web 学习心得](https://mp.weixin.qq.com/s/OxAqH03p-fl5Y4IgTBmMfA)
 
 - 38)[chinese-poetry：最懂唐诗宋词的数据库](http://mp.weixin.qq.com/s/erYQSUVfSp5P_eMFqUU4uQ)
+
+- 39)[Python 编码规范](https://mp.weixin.qq.com/s/BDDKlIxSAcIgVcHKTZOWrw)
 
 
 ### 随笔
