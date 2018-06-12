@@ -86,6 +86,10 @@
 
 - 19)[Scrapy 框架插件之 IP 免费代理池](http://mp.weixin.qq.com/s/L00mLtJLnaj1oufDpFseyQ)
 
+- 20)[爬取网易云音乐精彩评论](https://mp.weixin.qq.com/s/tMVu8dUepSPIvm3yCMUt1g)
+
+- 21)[爬取《Five Hundred Miles》在网易云音乐的所有评论](https://mp.weixin.qq.com/s/kcA-6WEHWQ-DOwxtWtYjWw)
+
 
 ### 数据分析
 
