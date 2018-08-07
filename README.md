@@ -10,6 +10,8 @@
 
 - 4)[真正学会“阅读”](https://mp.weixin.qq.com/s/g6CCiZ-OjVWsqE4rQJOttQ)
 
+- 5)[总结是成长的秘方](https://mp.weixin.qq.com/s/25hIMpyuZJKXwJEYksRgMw)
+
 
 ### Django 框架学习笔记
 - 1)[Django 学习笔记之环境搭建](https://mp.weixin.qq.com/s/q87WOZNTI0To1PYseVa4-w)
@@ -43,6 +45,8 @@
 - 15)[Django 使用会话( sessions )功能](https://mp.weixin.qq.com/s/-HOGpicIlmp3TIYzvcrl7Q)
 
 - 16)[Django 实战2：利用 Session 实现自动登录机制](https://mp.weixin.qq.com/s/p57ei2cZ_f8EOQIlVblD2g)
+
+- 17)[Django 2.1 版本已经来袭](https://mp.weixin.qq.com/s/Up_zNuBfAL2kL_jTfn7rug)
 
 
 
@@ -90,6 +94,18 @@
 
 - 21)[爬取《Five Hundred Miles》在网易云音乐的所有评论](https://mp.weixin.qq.com/s/kcA-6WEHWQ-DOwxtWtYjWw)
 
+- 22)[安利两个 MongoDB 可视化工具](https://mp.weixin.qq.com/s/jAcTMr2CPhhzsmKrylvwUg)
+
+- 23)[多线程爬取 unsplash 图库](https://mp.weixin.qq.com/s/hZxAAVW2UntRC8hyD_UWAA)
+
+- 2)[这些抓包工具，你值得拥有](https://mp.weixin.qq.com/s/IfaxzLjRPl5MaKyOktR2-Q)
+
+- 2)[分享一个爬取网站的小技巧](https://mp.weixin.qq.com/s/DETa4YrhbztJC_MbJJ-RAw)
+
+- 2)[搭建手机抓包环境](https://mp.weixin.qq.com/s/n5kxMIKhgY7XDGkhBxpm-w)
+
+- 2)[想提高爬虫效率？aiohttp 了解下](https://mp.weixin.qq.com/s/zkSOT_ort-J0E_WNoLEeAA)
+
 
 ### 数据分析
 
@@ -104,6 +120,8 @@
 - 1)[深入理解HTTP](https://mp.weixin.qq.com/s/uerkrr_AhB4qtw_0jBLwgg)
 
 - 2)[一道关于 TCP 连接的题目](http://mp.weixin.qq.com/s/YhC-wfppWurbVANCvP3WGQ)
+
+- 3)[为什么说 TCP 协议是可靠的？](https://mp.weixin.qq.com/s/_n_oAEp0hQJvvQ44aaqF1Q)
 
 
 ### Python学习笔记
@@ -146,6 +164,12 @@
 - 19)[数据库种类那么多，该如何选择？](https://mp.weixin.qq.com/s/ej6e1CtGRh80PHhvBNAsrg)
 
 - 20)[基础知识 | 使用 Python 将数据写到 CSV 文件](https://mp.weixin.qq.com/s/DI_XtkjDaGP291UoB0jpkA)
+
+- 21)[Python中“is”和“==”的区别](https://mp.weixin.qq.com/s/WYfJ4jKiMTLjHTKt_bJa5g)
+
+- 22)[os.path 模块用法详解](https://mp.weixin.qq.com/s/hzST47Xk5uEwge-bek9rEg)
+
+- 23)[Python 读取文本文件的内容](https://mp.weixin.qq.com/s/UjD0SFgb0Djac4Co4UQLAQ)
 
 
 ### 鸡汤
