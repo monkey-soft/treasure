@@ -12,6 +12,8 @@
 
 - 5)[总结是成长的秘方](https://mp.weixin.qq.com/s/25hIMpyuZJKXwJEYksRgMw)
 
+- 6)[程序员该如何过七夕？](https://mp.weixin.qq.com/s/2ian6Qi7YRbrze9tIgj48Q)
+
 
 ### Django 框架学习笔记
 - 1)[Django 学习笔记之环境搭建](https://mp.weixin.qq.com/s/q87WOZNTI0To1PYseVa4-w)
@@ -98,13 +100,15 @@
 
 - 23)[多线程爬取 unsplash 图库](https://mp.weixin.qq.com/s/hZxAAVW2UntRC8hyD_UWAA)
 
-- 2)[这些抓包工具，你值得拥有](https://mp.weixin.qq.com/s/IfaxzLjRPl5MaKyOktR2-Q)
+- 24)[这些抓包工具，你值得拥有](https://mp.weixin.qq.com/s/IfaxzLjRPl5MaKyOktR2-Q)
 
-- 2)[分享一个爬取网站的小技巧](https://mp.weixin.qq.com/s/DETa4YrhbztJC_MbJJ-RAw)
+- 25)[分享一个爬取网站的小技巧](https://mp.weixin.qq.com/s/DETa4YrhbztJC_MbJJ-RAw)
 
-- 2)[搭建手机抓包环境](https://mp.weixin.qq.com/s/n5kxMIKhgY7XDGkhBxpm-w)
+- 26)[搭建手机抓包环境](https://mp.weixin.qq.com/s/n5kxMIKhgY7XDGkhBxpm-w)
 
-- 2)[想提高爬虫效率？aiohttp 了解下](https://mp.weixin.qq.com/s/zkSOT_ort-J0E_WNoLEeAA)
+- 27)[想提高爬虫效率？aiohttp 了解下](https://mp.weixin.qq.com/s/zkSOT_ort-J0E_WNoLEeAA)
+
+- 28)[盘点一些网站的反爬虫机制](https://mp.weixin.qq.com/s/SP1kvu_ldX9ueXNFVSH4VQ)
 
 
 ### 数据分析
@@ -170,6 +174,12 @@
 - 22)[os.path 模块用法详解](https://mp.weixin.qq.com/s/hzST47Xk5uEwge-bek9rEg)
 
 - 23)[Python 读取文本文件的内容](https://mp.weixin.qq.com/s/UjD0SFgb0Djac4Co4UQLAQ)
+
+- 24)[使用 Python 生成二维码](https://mp.weixin.qq.com/s/CzRrRRglHrRGxcZfc0uy_g)
+
+
+### 产品
+- 1)[程序员应该懂点产品知识——竞品分析](https://mp.weixin.qq.com/s/HMGBGcW7SqtNFw7_wC4-Lg)
 
 
 ### 鸡汤
