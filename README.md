@@ -110,22 +110,11 @@
 
 - 28)[盘点一些网站的反爬虫机制](https://mp.weixin.qq.com/s/SP1kvu_ldX9ueXNFVSH4VQ)
 
+- 29)[带你了解代理 IP 那些事](https://mp.weixin.qq.com/s/F93oDohLHP1MwnMd1UJvRQ)
 
-### 数据分析
+- 30)[这个 Github 仓库因你而精彩](https://mp.weixin.qq.com/s/5-GrINKX20Fc8d0106Xo9w)
 
-- 1)[Python 绘图，我只用 Matplotlib（一）](http://mp.weixin.qq.com/s/n0TnezNI0XaTejIkpRpM7Q)
-
-- 2)[Python 绘图，我只用 Matplotlib（二）](https://mp.weixin.qq.com/s/h739RxhGHwXNrE3xfhNv9w)
-
-- 3)[Python 绘图，我只用 Matplotlib（三）—— 柱状图](https://mp.weixin.qq.com/s/_aJMmaSehTsf0lVjNmy-xQ)
-
-
-### 原理详解
-- 1)[深入理解HTTP](https://mp.weixin.qq.com/s/uerkrr_AhB4qtw_0jBLwgg)
-
-- 2)[一道关于 TCP 连接的题目](http://mp.weixin.qq.com/s/YhC-wfppWurbVANCvP3WGQ)
-
-- 3)[为什么说 TCP 协议是可靠的？](https://mp.weixin.qq.com/s/_n_oAEp0hQJvvQ44aaqF1Q)
+- 31)[详解 Scrapy 中间键的用法](https://mp.weixin.qq.com/s/zR77b8jkx1Sb46Gz8o7vXA)
 
 
 ### Python学习笔记
@@ -176,6 +165,32 @@
 - 23)[Python 读取文本文件的内容](https://mp.weixin.qq.com/s/UjD0SFgb0Djac4Co4UQLAQ)
 
 - 24)[使用 Python 生成二维码](https://mp.weixin.qq.com/s/CzRrRRglHrRGxcZfc0uy_g)
+
+- 25)[Python 面试宝典](https://mp.weixin.qq.com/s/Jj4xP6f73GAPRC1RLF-lOA)
+
+- 26)[高并发的那些事](https://mp.weixin.qq.com/s/-MqvKGA6D7tqyO2l63QV1g)
+
+- 27)[10张图带你了解后台服务架构演变](https://mp.weixin.qq.com/s/jhOdaGyUKTu2mjNh6MEuBg)
+
+- 28)[Python 居然有这么奇葩的库--The Fuck](https://mp.weixin.qq.com/s/P93_YsQJrDtUlQMHa4zgFg)
+
+- 29[Python 三种遍历目录的方法，轻松帮你找出隐藏文件](https://mp.weixin.qq.com/s/Owc9_TpKawSIyyXmr_ZZOw)
+
+### 数据分析
+
+- 1)[Python 绘图，我只用 Matplotlib（一）](http://mp.weixin.qq.com/s/n0TnezNI0XaTejIkpRpM7Q)
+
+- 2)[Python 绘图，我只用 Matplotlib（二）](https://mp.weixin.qq.com/s/h739RxhGHwXNrE3xfhNv9w)
+
+- 3)[Python 绘图，我只用 Matplotlib（三）—— 柱状图](https://mp.weixin.qq.com/s/_aJMmaSehTsf0lVjNmy-xQ)
+
+
+### 原理详解
+- 1)[深入理解HTTP](https://mp.weixin.qq.com/s/uerkrr_AhB4qtw_0jBLwgg)
+
+- 2)[一道关于 TCP 连接的题目](http://mp.weixin.qq.com/s/YhC-wfppWurbVANCvP3WGQ)
+
+- 3)[为什么说 TCP 协议是可靠的？](https://mp.weixin.qq.com/s/_n_oAEp0hQJvvQ44aaqF1Q)
 
 
 ### 产品
