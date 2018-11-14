@@ -116,6 +116,8 @@
 
 - 31)[详解 Scrapy 中间键的用法](https://mp.weixin.qq.com/s/zR77b8jkx1Sb46Gz8o7vXA)
 
+- 32)[100行代码爬取全国所有必胜客餐厅信息](https://mp.weixin.qq.com/s/ofBYdB26h4DJFyleZnBt5A)
+
 
 ### Python学习笔记
 - 1)[常用Python标准库](https://mp.weixin.qq.com/s/fMX3k3kt7UoU6IK7Q881xQ)
@@ -176,6 +178,7 @@
 
 - 29[Python 三种遍历目录的方法，轻松帮你找出隐藏文件](https://mp.weixin.qq.com/s/Owc9_TpKawSIyyXmr_ZZOw)
 
+
 ### 数据分析
 
 - 1)[Python 绘图，我只用 Matplotlib（一）](http://mp.weixin.qq.com/s/n0TnezNI0XaTejIkpRpM7Q)
@@ -199,6 +202,9 @@
 
 ### 鸡汤
 - 1）[你为何要那么拼命](https://mp.weixin.qq.com/s/nKNoLJtCZ6hIBx3EfGqPuQ)
+
+### 随笔
+- 1)[今天， IG 帮我们圆梦](https://mp.weixin.qq.com/s/SYKCKFb9kbMsiXlcEBrDrQ)
 
 
 ### Android学习笔记
