@@ -14,6 +14,8 @@
 
 - 6)[程序员该如何过七夕？](https://mp.weixin.qq.com/s/2ian6Qi7YRbrze9tIgj48Q)
 
+- 7[优秀的人一直在学习](https://mp.weixin.qq.com/s/IsPwtJDYwduCjW4hVQDN_A)
+
 
 ### Django 框架学习笔记
 - 1)[Django 学习笔记之环境搭建](https://mp.weixin.qq.com/s/q87WOZNTI0To1PYseVa4-w)
@@ -186,6 +188,8 @@
 - 2)[Python 绘图，我只用 Matplotlib（二）](https://mp.weixin.qq.com/s/h739RxhGHwXNrE3xfhNv9w)
 
 - 3)[Python 绘图，我只用 Matplotlib（三）—— 柱状图](https://mp.weixin.qq.com/s/_aJMmaSehTsf0lVjNmy-xQ)
+
+- 4)[爬虫必备工具 —— Chrome 开发者工具](https://mp.weixin.qq.com/s/J3E12Rn6I7tvJi3PspJzKg)
 
 
 ### 原理详解
